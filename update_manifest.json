@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/TranscriptionToolPPT/itb-word-count-updates/releases/download/v1.0.2/ITB_WordCount_Update_1.0.2.zip",
-  "sha256": "0d3785d19a99e352aac2b5a2e4b80ee14321f2069588bc0d9c40bbb28df9d2ca",
-  "notes": "Established a dedicated ITB update channel and confirmed batch character pages are calculated from total characters without spaces divided by 1,000."
+  "version": "1.0.3",
+  "url": "https://github.com/TranscriptionToolPPT/itb-word-count-updates/releases/download/v1.0.3/ITB_WordCount_Update_1.0.3.zip",
+  "sha256": "cade38eeace1e56271a55a3e1c88ff21894196a1caec39cf852dd9abf0e05ad6",
+  "notes": "Added safe nested ZIP processing, recursive folder scanning, stronger OCR recovery, blank-page detection, and clear file/page-specific review messages."
 }
