@@ -1,6 +1,6 @@
 {
   "version": "1.0.3",
   "url": "https://github.com/TranscriptionToolPPT/itb-word-count-updates/releases/download/v1.0.3/ITB_WordCount_Update_1.0.3.zip",
-  "sha256": "cade38eeace1e56271a55a3e1c88ff21894196a1caec39cf852dd9abf0e05ad6",
+  "sha256": "95cd290ca9e4b7af528b1523adc2946e95006b2d26d527ec73b2219704243594",
   "notes": "Added safe nested ZIP processing, recursive folder scanning, stronger OCR recovery, blank-page detection, and clear file/page-specific review messages."
 }
