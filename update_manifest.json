@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/TranscriptionToolPPT/itb-word-count-updates/releases/download/v1.0.3/ITB_WordCount_Update_1.0.3.zip",
-  "sha256": "95cd290ca9e4b7af528b1523adc2946e95006b2d26d527ec73b2219704243594",
-  "notes": "Added safe nested ZIP processing, recursive folder scanning, stronger OCR recovery, blank-page detection, and clear file/page-specific review messages."
+  "version": "1.0.4",
+  "url": "https://github.com/TranscriptionToolPPT/itb-word-count-updates/releases/download/v1.0.4/ITB_WordCount_Update_1.0.4.zip",
+  "sha256": "7f80e6dd98fae18976e1edde86e7a7825b627bc6ae67e6d862f20e7fbe961218",
+  "notes": "Added HEIC, HEIF, AVIF, JPEG 2000, PSD, and broad image-format support with content-based detection, camera-orientation correction, multi-frame OCR, and clear damaged-image errors."
 }
